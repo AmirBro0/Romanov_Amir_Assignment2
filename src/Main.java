@@ -5,7 +5,7 @@ public class Main {
         Driver dv1 = new Driver("Amir Romanov" , "00101");
         Driver dv2 = new Driver("Bakytzhan Orazbai","02020");
         Driver dv3 = new Driver("Rustam Kabdolda" , "none");
-        Driver dv4 = new Driver("Assanali Akezhanov" , "54314");
+        Driver dv4 = new Driver("Assanali Akizhanov" , "54314");
         Driver dv5 = new Driver("Hamid Niazi" , "784536");
 
         Vehicle vc1 = new Car("Lexus lfa limited edition 500" , 2012 , dv1 , 2 ,"Premium Unleaded Petrol" );
